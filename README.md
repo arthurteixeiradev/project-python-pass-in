@@ -1,0 +1,1 @@
+Development of a registration and event management application. Using Python as a programming language, Flask as a web framework, environment preparation and good project practices with Virtualenv, Pylint and code versioning using pre-commit, good code practices with entities, services and repositories + automated tests with Pytest.
